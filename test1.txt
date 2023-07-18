@@ -1,2 +1,4 @@
 b1 commit 1
 b1 commit 2
+b2 commit 1
+b2 commit 2
